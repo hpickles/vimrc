@@ -73,3 +73,6 @@ highlight SpecialKey guibg=#002b36
 
 " Spelling
 set spell spelllang=en_us
+
+" Word Wrap
+set tw=72
