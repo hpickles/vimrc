@@ -15,6 +15,7 @@ Plugin 'VundleVim/Vundle.vim'
 " plugin on GitHub repo
 Plugin 'scrooloose/nerdtree'
 Plugin 'altercation/vim-colors-solarized'
+Plugin 'ycm-core/YouCompleteMe'
 "Plugin 'tpope/vim-fugitive'
 " plugin from http://vim-scripts.org/vim/scripts.html
 " Plugin 'L9'
