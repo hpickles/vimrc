@@ -74,6 +74,11 @@ highlight SpecialKey guibg=#002b36
 
 " Spelling
 set spell spelllang=en_us
+" Misspelled words are underlined
+hi clear SpellBad
+hi SpellBad cterm=underline
+" Set style for gVim
+hi SpellBad gui=undercurl
 
 " Force the cursor onto a new line after 80 characters
 set textwidth=80
