@@ -74,6 +74,6 @@ highlight SpecialKey guibg=#002b36
 
 " Spelling
 set spell spelllang=en_us
+" Force the cursor onto a new line after 80 characters
+set textwidth=80
 
-" Word Wrap
-set tw=72
