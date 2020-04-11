@@ -89,3 +89,5 @@ set colorcolumn=+1
 " In Git commit messages, also colour the 51st column (for titles)
 autocmd FileType gitcommit set colorcolumn+=51
 
+" matchit plugin extends '%' to work on XML(HTML) tags.
+packadd! matchit
