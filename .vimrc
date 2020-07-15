@@ -91,3 +91,6 @@ autocmd FileType gitcommit set colorcolumn+=51
 
 " matchit plugin extends '%' to work on XML(HTML) tags.
 packadd! matchit
+
+" Allow switching buffers without saving.
+set hidden
