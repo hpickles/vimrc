@@ -94,3 +94,6 @@ packadd! matchit
 
 " Allow switching buffers without saving.
 set hidden
+
+" When opening or jumping to a buffer use the open window if it exists.
+set switchbuf=useopen
